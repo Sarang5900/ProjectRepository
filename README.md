@@ -1,1 +1,1 @@
-# ProjectRepository
+This is Practice Projects Repository
